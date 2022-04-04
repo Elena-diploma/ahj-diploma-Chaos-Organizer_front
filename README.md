@@ -1,6 +1,8 @@
 # ahj-diploma-Chaos-Organizer_front
 
-Server: https://dashboard.heroku.com/apps/ahj-diploma-chaos-organizer-b
+Server:
+
+https://ahj-diploma-chaos-organizer-b.herokuapp.com/
 
 ***Обязательные для реализации функции***
 
