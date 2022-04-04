@@ -1,5 +1,7 @@
 # ahj-diploma-Chaos-Organizer_front
 
+Server: https://dashboard.heroku.com/apps/ahj-diploma-chaos-organizer-b
+
 ***Обязательные для реализации функции***
 
 + Сохранение в истории ссылок и текстовых сообщений
