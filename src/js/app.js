@@ -17,7 +17,7 @@ const loading = document.querySelector('.status-loading');
 
 const hostname = 'ahj-diploma-chaos-organizer-b.herokuapp.com';
 
-const api = new API(`http://${hostname}`, loading, messagesContainer, messages, chatInput);
+const api = new API(`https://${hostname}`, loading, messagesContainer, messages, chatInput);
 
 api.preConnection();
 
