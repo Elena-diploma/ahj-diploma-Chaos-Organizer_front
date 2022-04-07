@@ -1008,7 +1008,7 @@ var loading = document.querySelector('.status-loading');
 var hostname = 'ahj-diploma-chaos-organizer-b.herokuapp.com';
 var api = new API("http://".concat(hostname), loading, messagesContainer, messages, chatInput);
 api.preConnection();
-var ws = new WebSocket("ws://".concat(hostname));
+var ws = new WebSocket("wss://".concat(hostname));
 var chatMessagesMaker = new ChatMessagesMaker(chatInput, messages, messagesContainer, api, ws);
 var webSocketAPI = new WebSocketAPI(ws, messages, messagesContainer, chatMessagesMaker);
 webSocketAPI.handleIncomingMessages();
