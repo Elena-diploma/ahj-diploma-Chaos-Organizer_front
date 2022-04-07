@@ -1,4 +1,6 @@
 # ahj-diploma-Chaos-Organizer_front
+https://ci.appveyor.com/api/projects/status/a8essdwttgbtgsho
+
 
 Server:
 
