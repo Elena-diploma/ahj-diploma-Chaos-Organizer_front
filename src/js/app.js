@@ -23,6 +23,7 @@ api.preConnection();
 
 const ws = new WebSocket(`wss://${hostname}`);
 
+
 const chatMessagesMaker = new ChatMessagesMaker(
   chatInput,
   messages,
