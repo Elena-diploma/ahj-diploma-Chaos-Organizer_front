@@ -1,5 +1,6 @@
 # ahj-diploma-Chaos-Organizer_front
-https://ci.appveyor.com/api/projects/status/a8essdwttgbtgsho
+[![Build status](https://ci.appveyor.com/api/projects/status/a8essdwttgbtgsho?svg=true)](https://ci.appveyor.com/project/Elena-diploma/ahj-diploma-chaos-organizer-front)
+
 
 
 Server:
