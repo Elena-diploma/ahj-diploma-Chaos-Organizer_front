@@ -48,6 +48,6 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
-
+    "@jest/globals": "^28.0.3"
   }
 }
